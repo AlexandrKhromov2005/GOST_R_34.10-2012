@@ -1,12 +1,3 @@
-/*
-* Copyright (c) 2013 by sftp
-*
-* Redistribution and use in source and binary forms, with or without
-* modification, are permitted.
-*
-* There's ABSOLUTELY NO WARRANTY, express or implied.
-*/
-
 /*#include <stdio.h>
 #include <string.h>
 
@@ -81,10 +72,6 @@ print_hash(&ctx);
 return 0;
 }*/
 
-/*
-* Copyright (c) 2013 by sftp
-* Modifications (c) 2023 by AI Assistant
-*/
 
 #include <stdio.h>
 #include <string.h>
