@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "types.h": "c",
-        "gost3410.h": "c",
-        "ec_point.h": "c"
-    }
-}
